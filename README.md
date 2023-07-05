@@ -48,6 +48,7 @@
 ## 快乐源泉
 
  - Nikon D610
+ - Tamron 70-300mm VC
  - Sigma 150-600mm F5-6.3 DG OS HSM | Contemporary
  - ----------------------------------
  - Sony WH-1000XM3
